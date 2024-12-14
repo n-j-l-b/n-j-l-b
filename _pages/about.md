@@ -1,16 +1,25 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I’m a graduate student at the [University of California, Santa Cruz](https://www.astro.ucsc.edu/), Astronomy and Astrophysics Department. I am interested in binary stars, stellar evolution, and common envelope evolution. I am currently working on modelling Betelgeuse and its potential companion, Betelbuddy, with a 3D hydrodynamics code called [Athena++](https://www.athena-astro.app/) with Dr. Enrico Ramirez-Ruiz's group. I am passionate about mentoring and creating community for URM students in astronomy.
 
-A data-driven personal website
+I grew up in the Hudson Valley area of New York, but my family is from Costa Rica (*pura vida!*). I was an undergraduate at [Wellesley College](https://www.wellesley.edu/academics/department/physics-and-astronomy) (B.A., astrophysics, 2024) and an intern (2023-2024) at the [Center for Astrophysics \| Harvard & Smithsonian](https://www.cfa.harvard.edu/). Outside of astronomy, I love reading fun sci-fi and feminist novels, rock climbing, and spending time with my lovely cat, Lyra!
+
+Publications
 ======
+View my publications on [ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=author%3A%22Leonhardes-Barboza%2C%20N%22%20year%3A2020-2100&sort=date%20desc%2C%20bibcode%20desc&p_=0) or [arXiv](https://arxiv.org/search/?query=Leonhardes-Barboza%2C+N&searchtype=author&abstracts=show&order=-announced_date_first&size=50).
+
+Contact Me
+======
+njleonha \[at\] ucsc.edu
+
+<!-- ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
@@ -46,4 +55,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
